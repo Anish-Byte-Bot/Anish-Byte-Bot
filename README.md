@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/AnishhTweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnefarious999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swayams-bisoyi-8a3950252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swayams bisoyi" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/anishmohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swayams bisoyi" height="30" width="40" /></a>
 <a href="https://instagram.com/swayams__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swayams__" height="30" width="40" /></a>
 <a href="https://dribbble.com/sway69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="swayams bisoyi" height="30" width="40" /></a>
 <a href="https://www.behance.net/swayamsbisoyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="swayamsbisoyi" height="30" width="40" /></a>
